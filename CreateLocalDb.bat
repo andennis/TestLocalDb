@@ -1,0 +1,1 @@
+"%ProgramFiles%\Microsoft SQL Server\120\Tools\Binn\SqlLocalDB.exe" create "Projects1" 12.0 -s
